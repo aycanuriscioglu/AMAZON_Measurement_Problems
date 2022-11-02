@@ -49,3 +49,11 @@ day_diff : Değerlendirmeden itibaren geçen gün sayısı
 helpful_yes : Değerlendirmenin faydalı bulunma sayısı
 
 total_vote : Değerlendirmeye verilen oy sayısı
+
+!!!!!!!!!!!!!!
+
+Uyarı: Veri kümesini açık kaynak olmadığı için paylaşamayacağımı belirtmek isterim.
+
+!!!!!!!!!!!!!!
+
+Warning: I would like to point out that I cannot share the dataset because it is not open source.
