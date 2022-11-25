@@ -23,6 +23,7 @@ This data set, which includes Amazon product data, includes product categories a
 Amazon ürün verilerini içeren bu veri seti ürün kategorileri ile çeşitli metadataları içermektedir. Elektronik kategorisindeki en fazla yorum alan ürünün kullanıcı puanları ve yorumları vardır.
 
 
+
 Veri Seti Hikayesi
 
 reviewerID : Kullanıcı ID’si
